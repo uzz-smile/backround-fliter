@@ -1,0 +1,16 @@
+body{
+background: url(ima/photo_2024-06-20_22-43-54.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.smile{
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(2px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
+    width: 500px;
+    height: 300px;
+    margin: 200px auto;
+}
